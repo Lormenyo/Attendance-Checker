@@ -7,11 +7,11 @@ This a project that consist of an RFID system that checks the attendance of stud
 ### RFID Module
 ![rfid schematic](rfid.png)
 ### LED Seven-Segment Display
-![7-seg schematic](schematic.jpg)
+![7-seg schematic](Schematic circuit diagram.jpg)
 ### Database
-![7-seg schematic](schematic.jpg)
+![7-seg schematic](Schematic.jpg)
 ### Admin page
-![7-seg schematic](schematic.jpg)
+![7-seg schematic](Schematic.jpg)
 
 # Technologies used
 ### Arduino 
